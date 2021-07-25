@@ -1,0 +1,16 @@
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+E:\do an\QuanLySinhVien_MaNguonMo\QuanLySinhVien\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QLSV_111\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\bin\Debug\QuanLySinhVien_DAL.pdb
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.csprojResolveAssemblyReference.cache
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+E:\Git\QLSV\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
+C:\Users\admin\Desktop\QLSV-master\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.dll
+C:\Users\admin\Desktop\QLSV-master\QuanLySinhVien_MaNguonMo\QuanLySinhVien_DAL\obj\Debug\QuanLySinhVien_DAL.pdb
